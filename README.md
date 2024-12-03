@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hi there! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hi there ! I'm Antai Sylvia Experienced Data Analyst specializing in extracting actionable insights from complex datasets. Proficient in statistical analysis, data visualization, and predictive modeling to drive informed business decisions and optimize performance.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
