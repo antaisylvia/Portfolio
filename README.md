@@ -5,23 +5,21 @@ Hi there ! I'm Antai Sylvia Experienced Data Analyst specializing in extracting 
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
+## SKILLS
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
-
-**- ✅ Data Analytics Consulting.**
+**- ✅ Data Wrangling and Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+**- ✅ Data Transformation and Data Visualization.**
+I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. 
 
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## MY PROJECTS 
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**How i Made An Analysis report on how DONALD TRUMP Won The 2024 US Presidential Election.**
 ![image](assets/Screenshot 2024-12-03 114415.png)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
