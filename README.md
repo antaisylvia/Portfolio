@@ -27,7 +27,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Asset Management Analysis.**
 
 ![image](assets/agro.jpg)
 
@@ -35,7 +35,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Procurement Analysis.**
 
 ![image](assets/car.jpg)
 
@@ -77,11 +77,11 @@ In this course, you will learn how to analyze HR and employee data, including de
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:antai.sylvia6@gmail.com">antai.sylvia6@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 810-002-1591</td>
     </tr>
     <tr>
       <td>📍</td>
@@ -89,7 +89,7 @@ In this course, you will learn how to analyze HR and employee data, including de
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="https://antaisylvia.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
