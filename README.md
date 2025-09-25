@@ -19,7 +19,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 *A glimpse of some of the projects I've been working on.*
 
-**How i Made An Analysis report on how DONALD TRUMP Won The 2024 US Presidential Election.**
+** An Analysis report on how DONALD TRUMP Won The 2024 US Presidential Election.**
 ![image](assets/Screenshot 2024-12-03 114415.png)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
@@ -85,7 +85,7 @@ In this course, you will learn how to analyze HR and employee data, including de
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Lagos, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
