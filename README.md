@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hi there ! I'm Antai Sylvia Experienced Data Analyst specializing in extracting actionable insights from complex datasets. Proficient in statistical analysis, data visualization, and predictive modeling to drive informed business decisions and optimize performance.
+Hi there ! I'm Sylvia Antai Experienced Data Analyst specializing in extracting actionable insights from complex datasets. Proficient in statistical analysis, data visualization, and predictive modeling to drive informed business decisions and optimize performance.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -11,7 +11,7 @@ Hi there ! I'm Antai Sylvia Experienced Data Analyst specializing in extracting 
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
 **- ✅ Data Transformation and Data Visualization.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. 
+I execute and turn datas into usable datasets,make visual representations of data to help people better understand and analyze complex information,process and make data-driven decision-making. 
 
 
 <!--Section 2: List 3-4 key projects-->
