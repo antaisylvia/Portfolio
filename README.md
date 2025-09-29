@@ -93,7 +93,7 @@ In this course, you will learn how to analyze HR and employee data, including de
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://linkedin.com/in/AntaiSylvia">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
